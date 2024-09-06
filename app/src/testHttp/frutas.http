@@ -1,0 +1,6 @@
+@url = https://8080-marcoweb-sw2aapi-0jixm9t69tz.ws-us116.gitpod.io
+###
+GET {{url}}/frutas
+
+###
+GET {{url}}/frutas/2
